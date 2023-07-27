@@ -8,7 +8,8 @@ Our goal is to ease the transition for incoming students and provide a solid fou
 
 - **User Manuals**: Detailed guides for using the tools and equipment in our lab.
 - **Tutorials**: Step-by-step walkthroughs of our methodologies, from basic techniques to more advanced procedures.
-- **Troubleshooting Tips**: Solutions and workarounds for common problems you may encounter.
 - **Practical Tools**: A collection of useful websites and tools for learning and research, as well as recommended websites for finding research papers.
+- **Graduation Process**: A comprehensive guide to the graduation process, detailing the procedures for completing your degree, as well as information on preparing for your thesis defense.
+- **Troubleshooting Tips**: Solutions and workarounds for common problems you may encounter.
 
 We hope that this repository will serve as a valuable resource throughout your time in the BairLab. We encourage you to explore, learn, and contribute your own insights to help future students.
